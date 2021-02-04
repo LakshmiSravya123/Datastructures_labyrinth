@@ -1,12 +1,12 @@
 # Datastructures_labyrinth
 To receive a maze in the style: 
-# # # # # # #
-# D # 0 0 0 #
-# 0 0 0 # 0 #
-# # 0 # # F #
-# # 0 0 0 # #
-# # 0 # # # #
-# # # # # # #
+. . . . . . .
+. D . 0 0 0 .
+. 0 0 0 . 0 .
+. . 0 . . F .
+. . 0 0 0 . .
+. . 0 . . . .
+. . . . . . .
 My goal is to solve this labyrinth.
 
 # Specification for input:
