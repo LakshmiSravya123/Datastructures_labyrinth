@@ -1,12 +1,12 @@
 # Datastructures_labyrinth
 To receive a maze in the style: 
-. . . . . . .<br>
-. D . 0 0 0 .<br>
-. 0 0 0 . 0 .<br>
-. . 0 . . F .<br>
-. . 0 0 0 . .<br>
-. . 0 . . . .<br>
-. . . . . . .<br>
+$$$$$$$<br>
+$D$000$<br>
+$000$0$<br>
+$$0$$F$<br>
+$$000$$<br>
+$$0$$$$<br>
+$$$$$$$<br>
 My goal is to solve this labyrinth.
 
 # Specification for input:
