@@ -1,5 +1,5 @@
 # Datastructures_labyrinth
-To receive a maze in the style: 
+To receive a maze in the style: <br>
 $$$$$$$<br>
 $D$000$<br>
 $000$0$<br>
